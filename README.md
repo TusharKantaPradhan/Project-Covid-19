@@ -124,6 +124,7 @@ project/
 <p align="center">
   <img src="images/daily_cases.png" width="800"/>
 </p>
+
 ### 🌍 Global Spread Map
 <p align="center">
   <img src="images/map.png" width="800"/>
