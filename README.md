@@ -109,23 +109,31 @@ project/
 
 ### 🏠 Dashboard Overview
 
-![Dashboard](images/dashboard.png)
+<p align="center">
+  <img src="images/dashboard.png" width="800"/>
+</p>
 
 ### 📈 Trend Analysis
 
-![Trend](images/trend.png)
+<p align="center">
+  <img src="images/trend.png" width="800"/>
+</p>
 
 ### 📅 Daily New Cases
 
-![Daily Cases](images/daily_cases.png)
-
+<p align="center">
+  <img src="images/daily_cases.png" width="800"/>
+</p>
 ### 🌍 Global Spread Map
-
-![Map](images/map.png)
+<p align="center">
+  <img src="images/map.png" width="800"/>
+</p>
 
 ### 🔮 Prediction Graph
 
-![Prediction](images/prediction.png)
+<p align="center">
+  <img src="images/prediction.png" width="800"/>
+</p>
 
 
 
