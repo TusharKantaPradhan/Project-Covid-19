@@ -105,7 +105,27 @@ project/
 
 ---
 
-## 📸 Screenshots 
+## 📸 Screenshots
+
+### 🏠 Dashboard Overview
+
+![Dashboard](images/dashboard.png)
+
+### 📈 Trend Analysis
+
+![Trend](images/trend.png)
+
+### 📅 Daily New Cases
+
+![Daily Cases](images/daily_cases.png)
+
+### 🌍 Global Spread Map
+
+![Map](images/map.png)
+
+### 🔮 Prediction Graph
+
+![Prediction](images/prediction.png)
 
 
 
